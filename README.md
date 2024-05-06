@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=siuu!+✌️;+I'm+Jeeva!;" />
+</h1><br>
+
 # 💫 About Me:
 📚 I am currently pushing B.Tech Artificial Inelligence in<br>KPRIET<br>🧠Learning Fullstack Development with spotknack<br>📈 I am Hungry to Learn<br>🏋🏼‍♀️💪🏼Fun about me: I like to do workouts and play Football⚽<br>and Draw
 
