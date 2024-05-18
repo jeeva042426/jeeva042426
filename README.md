@@ -4,7 +4,7 @@
 </h1>
 
 # 💫 About Me:
-📚 I am currently pushing B.Tech Artificial Inelligence in<br>KPRIET<br>
+📚 I am currently pushing B.Tech Artificial Inelligence in KPRIET<br>
 🧠 Learning Fullstack Development with spotknack<br>
 📈 I am Hungry to Learn<br>
 🏋🏼‍♀️⚽ My Hobbies : I like to do workouts and play Football⚽and draw
