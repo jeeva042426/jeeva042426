@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 📚 I am currently pushing B.Tech Artificial Inelligence in KPRIET<br>
-🧠 Learning Fullstack Development with spotknack<br>
+🧠 I have hands on experience in Fullstack Development and AI Engineer || I am building my career in the AI Engineer Role. @ Tekcogent<br>
 📈 I am Hungry to Learn<br>
 🏋🏼‍♀️⚽ My Hobbies : I like to do workouts and play Football⚽and draw
 
