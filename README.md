@@ -5,9 +5,13 @@
 
 # 💫 About Me:
 📚 I am currently pushing B.Tech Artificial Inelligence in KPRIET<br>
-🧠 I have hands on experience in Fullstack Development and AI Engineer || I am building my career in the AI Engineer Role. @ [![Tekcogent](https://tekcogent.com/wp-content/uploads/2023/09/Tekcogent_logo_v1-1-e1693752991299.png)](https://tekcogent.com/) <br>
+🧠 I have hands on experience in Full-stack development and AI Engineer ||. 
 📈 I am Hungry to Learn<br>
 🏋🏼‍♀️⚽ My Hobbies : I like to do workouts and play Football⚽and draw
+
+<h2 align="center">
+    I am building my career in the AI Engineer Role. @ [![Tekcogent](https://tekcogent.com/wp-content/uploads/2023/09/Tekcogent_logo_v1-1-e1693752991299.png)](https://tekcogent.com/)<br>
+</h2>
 
 
 
